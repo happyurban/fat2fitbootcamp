@@ -667,7 +667,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/web-header-updated-medium-2000x1124.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/web-header-updated-copy-small-2000x1124.png",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
