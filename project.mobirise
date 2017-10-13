@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/happy-urban-symbol-128x126-1.png",
     "noImageResize": ""
@@ -73,7 +73,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<br>We are a young start-up company specializing for urban people's happiness. FAT2FIT BOOTCAMP is our first project in 2017 for urban people of Kuala Lumpur.   "
+          "text": "<br>We are a young start-up EVENT company specializing for urban people's happiness. FAT2FIT BOOTCAMP is one of our project in 2018 for urban people of Kuala Lumpur.   "
         },
         {
           "_tags": [
@@ -198,7 +198,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">happyurban.com.my</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"timeline.html\" aria-expanded=\"false\">TIMELINE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faqs.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" target=\"_blank\">REGISTER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"timeline.html\" aria-expanded=\"false\">TIMELINE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faqs.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" target=\"_blank\">REGISTER FOR 2018</a></li>"
         }
       ]
     },
@@ -237,12 +237,12 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": false,
-            "showButtons": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": false
           },
           "title": "TIMELINE",
-          "text": "<b>FAT2FIT BOOTCAMP: 8 WEEKS TRANSFORMATION CONTEST<br>Bukit Kiara Sports Complex &nbsp; | &nbsp; 23 SEP 2017 till 25 NOV 2017&nbsp;</b>",
+          "text": "<b>COMING IN 2018</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://drive.google.com/uc?export=download&amp;id=0BxaQFERYBQzgYVNxUkYxUVFWM0E\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD PDF</a> "
         },
         {
@@ -307,7 +307,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">happyurban.com.my</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"timeline.html\" aria-expanded=\"false\">TIMELINE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faqs.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" target=\"_blank\">REGISTER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"timeline.html\" aria-expanded=\"false\">TIMELINE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faqs.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" target=\"_blank\">REGISTER FOR 2018</a></li>"
         },
         {
           "_tags": [
@@ -380,6 +380,53 @@
       },
       "components": [
         {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1z",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2c82c9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "FAQS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>1. What is FAT2FIT BOOTCAMP?</p><p><br></p><p>FAT2FIT BOOTCAMP is a body transformation program targeted to a number of obese people in urban city of KL.&nbsp;</p><p><br></p><p><br></p><p><br></p><p>2. How many obese people are targeted for FAT2FIT BOOTCAMP?</p><p><br></p><p>We are seeking for 35 obese people.&nbsp;</p><p><br></p><p><br></p><p><br></p><p>3. Why HAPPYURBAN organizing FAT2FIT BOOTCAMP?</p><p><br></p><p>Why not? We are simply providing a platform for these urban people to work towards practicing healthier lifestyle.</p><p><br></p><p><br></p><p><br></p><p>4. How many phases are in the FAT2FIT BOOTCAMP?</p><p><br></p><p>There are two (2) phases. Firstly, CONTEST PHASE. Secondly, MAINTENANCE PHASE.</p><p><br></p><p><br></p><p><br></p><p>5. What is CONTEST PHASE?</p><p><br></p><p>CONTEST PHASE is an eight (8) weeks transformation contest of BOOTCAMP group classes and personal training sessions with a total winning cash prizes of RM14,000.00.</p><p><br></p><p><br></p><p><br></p><p>6. Where will the CONTEST PHASE be held at?</p><p><br></p><p>Bukit Kiara Sports Complex, Kuala Lumpur.</p><p><br></p><p><br></p><p><br></p><p>7. When will the CONTEST PHASE started?</p><p><br></p><p>Year 2018.</p><p><br></p><p><br></p><p><br></p><p>8. What are the prizes for the CONTEST?</p><p><br></p><p>Cash prizes of RM8,000.00 X1 for the first prize, RM4,000.00 X1 for the second prize, and RM2,000.00 X1 for the third prize.</p><p><br></p><p><br></p><p><br></p><p>9. Who are the transformational coaches in CONTEST PHASE?</p><p><br></p><p>A team of experienced Fitness Coaches, Mindfulness Coach, Dietitian, and Medical Officer.</p><p><br></p><p><br></p><p><br></p><p>10. How to participate in the CONTEST?</p><p><br></p><p>Register as a SILVER CONTESTANT, GOLD CONTESTANT or PLATINUM CONTESTANT.</p><p>Proud Malaysian aged 18 years and above regardless of gender and race.</p><p>Lived, studying and/or working in Kuala Lumpur or Selangor area.&nbsp;</p><p>Body Mass Index (BMI) of at least more than 27.50 (Class Obese I).</p><p><br></p><p><br></p><p><br></p><p>11. How are the winners of FAT2FIT BOOTCAMP CONTEST will be selected?</p><p><br></p><p>The winners of FAT2FIT BOOTCAMP CONTEST will be selected based on the percentage improvement of the health parameters in the Health Screening (pre-intervention and post-intervention) done. So, it is not just merely in losing weight. It is more in getting FIT. Thus, this is why this program is called as FAT2FIT.</p><p><br></p><p><br></p><p><br></p><p>12. Will all the contestant receive their performance data at the end of the CONTEST?</p><p><br></p><p>Yes. They will receive their Personal Performance Report Card.</p><p><br></p><p><br></p><p><br></p><p>13. Can someone with an advanced stage of disease join the CONTEST?</p><p><br></p><p>The answer is no. This program is targeted for the at-risk people who are currently obese.&nbsp;</p><p><br></p><p><br></p><p><br></p><p>14. Can someone aged below 18 years old join the CONTEST?</p><p><br></p><p>Unfortunately, no. Somewhat, we are in planning of FAT2FIT BOOTCAMP: KIDS &amp; TEEN EDITION in Late 2018 for our upcoming event. Stay updated!</p><p><br></p><p><br></p><p><br></p><p>15. What are BOOTCAMP workouts actually designed for?</p><p><br></p><p>BOOTCAMP workouts are designed to improve an overall fitness inclusive of strength, cardio, flexibility, agility and endurance for any ages! Never in each of the sessions will be the same. Expect different challenges in every class.</p><p><br></p><p><br></p><p><br></p><p>16. Do BOOTCAMP workouts really help obese people to lose weight safely and successfully and permanently keep it off for good?</p><p><br></p><p>AB - SO - LUTE... YES!  Of course, with the ideal combination of real workouts from the Fitness Coaches, the positive mindset lessons from the Mindfulness Coach, the right diet advices from the Dietitian, and the health consultation from the Medical Officer. We cover it all.&nbsp;</p><p><br></p><p><br></p><p><br></p><p>17. What are the attributes of these 35 obese people that happyurban are looking for in the FAT2FIT BOOTCAMP?</p><p><br></p><p>Someone who are - READY TO START, READY TO GO BEYOND, READY TO TRANSFORM, READY TO BE GREATER. Just like in our FAT2FIT BOOTCAMP Promo Video.</p><p><br></p><p><br></p><p><br></p><p>18. Owh! How about the MAINTENANCE PHASE? What is that?</p><p><br></p><p>MAINTENANCE PHASE is a phase designed for the continuation of CONTEST PHASE. It is a sixteen (16) weeks supportive program with a once per week of PERSONAL TRAINING. Total of 16 personal sessions in 16 weeks.</p><p><br></p><p><br></p><p><br></p><p>19. Last question. How could a business collaborate with HAPPYURBAN in support of these 35 incredible people who are about to inspire others?</p><p><br></p><p>Simply, contact us at happyurbanteam@gmail.com +6017-289 4564 for creative ideas.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
@@ -441,82 +488,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">happyurban.com.my</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"timeline.html\" aria-expanded=\"false\">TIMELINE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faqs.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" target=\"_blank\">REGISTER</a></li>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "font-size": "13px"
-            },
-            ".mbr-article UL": {
-              "font-size": "13px"
-            }
-          },
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1g",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img_20170713_114344%20(2)_snapseed-2000x5719.jpg",
-            "bgColor": "#27aae0",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fat2fit-bootcamp-poster-15-copy-1400x2333.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "headerAlign": "left",
-          "title": "FAQs",
-          "meta": "Frequently asked questions",
-          "text": "<p>1. What is FAT2FIT BOOTCAMP?<br></p><p><i>FAT2FIT BOOTCAMP is a body transformation program targeted to a number of obese people in urban city of KL.&nbsp;</i></p><p><br></p><p>2. How many obese people are targeted for FAT2FIT BOOTCAMP<i>?</i></p><p><i>We are seeking for 35 obese people.&nbsp;</i></p><p><br></p><p>3. Why HAPPYURBAN organizing FAT2FIT BOOTCAMP?</p><p><i>Why not? We are simply providing a platform for these urban people to work towards practicing healthier lifestyle.</i></p><p><br></p><p>4. How many phases are in the FAT2FIT BOOTCAMP?</p><p><i>There are two (2) phases. Firstly, CONTEST PHASE. Secondly, MAINTENANCE PHASE.</i></p><p><br></p><p>5. What is CONTEST PHASE? </p><p><i>CONTEST PHASE is an eight (8) weeks transformation contest of  BOOTCAMP group classes and personal training sessions with a total winning cash prizes of RM14,000.00.</i></p><p><br></p><p>6. Where will the CONTEST PHASE be held at?</p><p><i>Bukit Kiara Sports Complex, Kuala Lumpur.</i></p><p><br></p><p>7. When will the CONTEST PHASE started?</p><p><i>From 23 SEP 2017 till 25 NOV 2017.</i></p><p><br></p><p>8. What are the prizes for the CONTEST?</p><p><i>Cash prizes of RM8,000.00 X1 for the first prize, RM4,000.00 X1 for the second prize, and RM2,000.00 X1 for the third prize.</i></p><p><br></p><p>9. Who are the transformational coaches in CONTEST PHASE?</p><p><i>A team of experienced Fitness Coaches, Mindfulness Coach, Dietitian, and Medical Officer.</i></p><p><br></p><p>10. How to participate in the CONTEST?</p><ul><li><i>Register as a SILVER CONTESTANT, GOLD CONTESTANT or PLATINUM CONTESTANT before 16 SEP 2017.</i></li><li><i>Proud Malaysian aged 18 years and above regardless of gender and race.</i></li><li><i>Lived, studying and/or working in Kuala Lumpur or Selangor area.&nbsp;</i></li><li><i>Body Mass Index (BMI) of at least more than 27.50 (Class Obese I) by the late of 23 SEP 2017.</i></li></ul><p><br></p><p>11. When will be the closing date of registration for the CONTEST?</p><p><i>16 SEP 2017.</i></p><p><br></p><p>12. How much are the registration fees for the CONTEST?</p><p><i>Affordable prices of RM799 for SILVER CONTESTANT, RM1199 for GOLD CONTESTANT, and RM1599 for PLATINUM CONTESTANT.</i></p><p><br></p><p>13. What are the benefits of being a SILVER CONTESTANT?</p><p><i>A SILVER CONTESTANT will receive:</i></p><ul><li><i>GROUP TRAINING of 3 days per week. Total of 24 classes in 8 weeks.</i></li><li>2 Health Screenings (pre-intervention and post-intervention) inclusive of blood profile, BP measurement, anthropometric measurement, and fitness assessment. *</li><li>Doctor consultation.</li><li>Nutrition workshop.</li><li>Mindfulness workshop.</li></ul><p>&nbsp;</p><p>14. What are the benefits of being a GOLD CONTESTANT?</p><p><i>A GOLD CONTESTANT will receive:</i></p><ul><li><i>PERSONAL TRAINING of 2 days per week. Total of 16 personal sessions in 8 weeks.</i></li><li><i>2 Health Screenings (pre-intervention and post-intervention) inclusive of blood profile, BP measurement, anthropometric measurement, and fitness assessment. *</i></li><li><i>Doctor consultation.</i></li><li><i>Nutrition workshop.</i></li><li><i>Mindfulness workshop.</i></li></ul><p><br></p><p>&nbsp;15. What are the benefits of being a PLATINUM CONTESTANT?</p><p><i>A PLATINUM CONTESTANT will receive a combination of:</i></p><ul><li><i>GROUP TRAINING 3 days per week and PERSONAL TRAINING 2 days per week. Total of 24 classes and 16 personal sessions in 8 weeks.&nbsp;</i></li><li><i>2 Health Screenings (pre-intervention and post-intervention) inclusive of blood profile, BP measurement, anthropometric measurement, and fitness assessment. *</i></li><li><i>Doctor consultation.</i></li><li><i>Nutrition workshop.</i></li><li><i>Mindfulness workshop.</i></li></ul><p><br></p><p>16. Where and when is the timing for the FIRST DAY FAT2FIT BOOTCAMP?</p><p><i>The venue will be placed at Lecture Room 3 of Bukit Kiara Sports Complex on 23 SEP 2017 from 9.00am till 12.00pm.</i></p><p><br></p><p>17. Where and when are the timings for the GROUP TRAINING?</p><p><i>The venue will be placed at Multipurpose Court of Bukit Kiara Sports Complex. Contestants may either attend 6.00pm - 7.00pm BOOTCAMP Group Class or 8.00pm - 9.00pm BOOTCAMP Group Class from 25 SEP 2017 till 20 NOV 2017.&nbsp;</i></p><p><br></p><p>18. Where and when are the timings for the PERSONAL TRAINING?</p><p><i>PERSONAL TRAINING is a one (1) hour personal session. On weekdays, the venue will be placed at Bukit Kiara Sports Complex Gymnasium from 9.00am - &nbsp;9.00pm. While on weekends, it will be at Perdana Botanical Garden from 7.00am - 8.00pm. Sessions are from 25 SEP 2017 till 20 NOV 2017.&nbsp;</i></p><p><br></p><p>19. Where and when is the timing for the WORKSHOPS?</p><p><i>The venue will be placed at &nbsp;Lecture Room 3 of Bukit Kiara Sports Complex on 30 SEP 2017 from 9.00am till 1.00pm.</i></p><p><br></p><p>20. Where and when is the timing for the FINAL DAY FAT2FIT BOOTCAMP?</p><p><i>The venue will be placed at Bukit Kiara Sports Complex Main Hall on 25 NOV 2017 from 9.00am till 12.30pm.</i></p><p><br></p><p>21. How are the winners of FAT2FIT BOOTCAMP CONTEST will be selected?</p><p><i>The winners of FAT2FIT BOOTCAMP CONTEST will be selected based on the percentage improvement of the health parameters in the Health Screening (pre-intervention and post-intervention) done. So, it is not just merely in losing weight. It is more in getting FIT. Thus, this is why this program is called as FAT2FIT.</i></p><p><br></p><p>22. Will all the contestant receive their performance data at the end of the CONTEST?</p><p><i>Yes. They will receive their Personal Performance Report Card via personal email before 11 DEC 2017.</i></p><p><br></p><p>23. What are the languages of speaking in conducting FAT2FIT BOOTCAMP?</p><p><i>A mixture of Bahasa Malaysia &amp; English.</i></p><p><br></p><p>24. Can someone with an advanced stage of disease join the CONTEST?</p><p><i>The answer is no. This program is targeted for the at-risk people who are currently obese.&nbsp;</i><br></p><p><br></p><p>25. Can someone aged below 18 years old join the CONTEST?<br></p><p><i>Unfortunately, no. Somewhat, we are in planning of FAT2FIT BOOTCAMP: KIDS &amp; TEEN EDITION 2018 for our upcoming event. Stay updated!</i></p><p><br></p><p>26. When is the last day to pay for the CONTEST?<br></p><p><i>The same day as registration which is before 16 SEP 2017.</i><br></p><p><br></p><p>27. About the payment for the CONTEST, can it be made by deposit?<br></p><p><i>We are not encouraging this. If you are really in need, please do contact us at happyurbanteam@gmail.com +6017-289 4564 for negotiation. We are here to help!</i></p><p><br></p><p>28. How to submit proof of payment?</p><p><i>Proof of payment may be submitted via email at happyurban@gmail.com or by sending a screenshot to WhatsApp +6017-289 4564. Payment invoice (PDF form) wil be sent to the corresponding email within 12 hours of &nbsp;payment made.</i></p><p><br></p><p>29. What are BOOTCAMP workouts actually designed for?<br></p><p><i>BOOTCAMP workouts are designed to improve an overall fitness inclusive of strength, cardio, flexibility, agility and endurance for any ages! Never in each of the sessions will be the same. Expect different challenges in every class.</i></p><p><br></p><p>30. Do BOOTCAMP workouts really help obese people to lose weight safely and successfully and permanently keep it off for good?</p><p><i>AB - SO - LUTE... YES! &nbsp;Of course, with the ideal combination of real workouts from the Fitness Coaches, the positive mindset lessons from the Mindfulness Coach, the right diet advices from the Dietitian, and the health consultation from the Medical Officer. We cover it all.&nbsp;</i></p><p><br></p><p>31. What are the attributes of these 35 obese people that happyurban are looking for in the FAT2FIT BOOTCAMP?</p><p><i>Someone who are - READY TO START, READY TO GO BEYOND, READY TO TRANSFORM, READY TO BE GREATER. Just like in our FAT2FIT BOOTCAMP Promo Video.</i></p><p><br></p><p>32. Owh! How about the MAINTENANCE PHASE? What is that?</p><p><i>MAINTENANCE PHASE is a phase designed for the continuation of CONTEST PHASE. It is a 16 weeks supportive program with a once per week of PERSONAL TRAINING. Total of 16 personal sessions in 16 weeks. It is priced at RM1,199. It is OPTIONAL.</i></p><p><br></p><p>33. Where and when is the 6 MONTHS GRADUATION FAT2FIT BOOTCAMP? Why even do it?</p><p><i>The venue will be placed at Lecture Room 3 of Bukit Kiara Sports Complex on 17 MAR 2017 from 9.00am till 12.30pm. Mystery prizes await! The reason being of doing a 6 MONTHS GRADUATION CEREMONY is to celebrate these transformed people for their 6 months transformation journey. &nbsp;</i></p><p><br></p><p>34. Last question. How could a business collaborate with HAPPYURBAN in support of these 35 incredible people who are about to inspire others?</p><p><i>Simply, contact us at happyurbanteam@gmail.com +6017-289 4564 for creative ideas.</i></p><p><br></p><p>* May be subject to change</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"timeline.html\" aria-expanded=\"false\">TIMELINE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faqs.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" target=\"_blank\">REGISTER FOR 2018</a></li>"
         },
         {
           "_tags": [
@@ -654,7 +626,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">happyurban.com.my</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"timeline.html\" aria-expanded=\"false\">TIMELINE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faqs.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" target=\"_blank\">REGISTER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"timeline.html\" aria-expanded=\"false\">TIMELINE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faqs.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" target=\"_blank\">REGISTER FOR 2018</a></li>"
         },
         {
           "_inherit": "header1",
@@ -711,7 +683,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "<span style=\"line-height: 1.42857143; font-style: normal;\"><b>Bukit Kiara Sports Complex &nbsp; | &nbsp; 23 SEP 2017 till 25 NOV 2017</b></span><br>"
+          "meta": "<span style=\"line-height: 1.42857143; font-style: normal;\"><b>Bukit Kiara Sports Complex &nbsp; | &nbsp; Year 2018</b></span><br>"
         },
         {
           "_inherit": "features1",
@@ -923,7 +895,7 @@
             "showTitle": false,
             "showMeta": false,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -951,7 +923,7 @@
           "headerAlign": "left",
           "title": "FAT2FIT BOOTCAMP: 8 WEEKS TRANSFORMATION CONTEST",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>A fun, non-military style group classes and personal training sessions with a total winning cash prizes of RM14,000.00.<br></p><p>This science-based program will be held at Bukit Kiara Sports Complex from 23 SEP 2017 till 25 NOV 2017 in which 35 contestants will learn how to lose weight safely and successfully and permanently keep it off for good. The transformational coaches will guide the contestants through an 8 weeks schedule of physical activities, nutrition education, and mindfulness exercises.</p>",
+          "text": "<p>A fun, non-military style group classes and personal training sessions with a total winning cash prizes of RM14,000.00.<br></p><p>This science-based program will be held at Bukit Kiara Sports Complex, Year 2018 in which 35 contestants will learn how to lose weight safely and successfully and permanently keep it off for good. The transformational coaches will guide the contestants through an 8 weeks schedule of physical activities, nutrition education, and mindfulness exercises.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/uc?export=download&amp;id=0BxaQFERYBQzgYVNxUkYxUVFWM0E\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TIMELINE</a>"
         },
         {
@@ -1262,7 +1234,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1306,7 +1278,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "<span style=\"font-style: normal;\">1.&nbsp;Register as a Silver Contestant, Gold Contestant or Platinum Contestant before 16 SEP 2017.<br>2. Proud Malaysian aged 18 years and above regardless of gender and race.<br>3.&nbsp;Lived, studying and/or working in Kuala Lumpur or Selangor area.&nbsp;<br>4. Body Mass Index (BMI) of at least more than 27.50 (Class Obese I) by the late of 23 SEP 2017.<br><br>BMI Calculation  = weight (kg) / (height X height) (m²)<br><br>Example: 80.0kg / (1.50m X 1.50m) = 35.56<br><br>Malaysian Clinical Practice Guidelines of Obesity (2004) BMI Classes (kg/m²):<br>Underweight &lt;18.50 &nbsp;| &nbsp;Normal 18.50-22.99 &nbsp;| &nbsp;Overweight 23.00-27.49 <br>Obese I 27.50-34.99 &nbsp;| &nbsp;Obese II 35.00-39.9 &nbsp;| &nbsp;Obese III &gt;40.00</span><br>"
+          "meta": "<span style=\"font-style: normal;\">1.&nbsp;Register as a Silver Contestant, Gold Contestant or Platinum Contestant.<br>2. Proud Malaysian aged 18 years and above regardless of gender and race.<br>3.&nbsp;Lived, studying and/or working in Kuala Lumpur or Selangor area.&nbsp;<br>4. Body Mass Index (BMI) of at least more than 27.50 (Class Obese I).<br><br>BMI Calculation  = weight (kg) / (height X height) (m²)<br><br>Example: 80.0kg / (1.50m X 1.50m) = 35.56<br><br>Malaysian Clinical Practice Guidelines of Obesity (2004) BMI Classes (kg/m²):<br>Underweight &lt;18.50 &nbsp;| &nbsp;Normal 18.50-22.99 &nbsp;| &nbsp;Overweight 23.00-27.49 <br>Obese I 27.50-34.99 &nbsp;| &nbsp;Obese II 35.00-39.9 &nbsp;| &nbsp;Obese III &gt;40.00</span><br>"
         },
         {
           "_tags": [
@@ -1347,24 +1319,24 @@
             "fourthType": "hidden",
             "fifthType": "hidden"
           },
-          "title1": "SILVER CONTESTANT",
+          "title1": "SILVER CONTESTANT<br>(GROUP TRAINING)",
           "currency1": "RM",
-          "price1": "799",
-          "period1": "per registration",
-          "list1": "<ul><li><b>GROUP TRAINING </b>3 Days per Week&nbsp;</li><li><i>(Total of 24 Classes in 8 Weeks)</i></li><li><b>+ HEALTH SCREENINGS</b></li><li><b>+ DOCTOR CONSULTATION</b></li><li><b>+ NUTRITION WORKSHOP</b></li><li><b>+ MINDFULNESS WORKSHOP</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
-          "title2": "GOLD CONTESTANT",
+          "price1": "34",
+          "period1": "per session",
+          "list1": "<ul><li><b>GROUP TRAINING </b>3 Days per Week&nbsp;</li><li><i>(Total of 24 GROUP Sessions in 8 Weeks)</i></li><li><b>+ 2 FREE HEALTH SCREENINGS</b></li><li><b>+1 FREE DOCTOR CONSULTATION</b></li><li><b>+ 1 FREE NUTRITION WORKSHOP</b></li><li><b>+ 1 FREE MINDFULNESS WORKSHOP</b></li><li><b>(TOTAL OF RM816)</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR 2018</a>",
+          "title2": "GOLD CONTESTANT<br>(PERSONAL TRAINING)",
           "currency2": "RM",
-          "price2": "1199",
-          "period2": "per registration",
-          "list2": "<ul><li><b>PERSONAL TRAINING </b>2&nbsp;Days per Week</li><li><i>(Total of 16 Personal Sessions in 8 Weeks)</i></li><li><b>+ HEALTH SCREENINGS</b></li><li><b>+ DOCTOR CONSULTATION</b></li><li><b>+ NUTRITION WORKSHOP</b></li><li><b>+ MINDFULNESS WORKSHOP</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
-          "title3": "PLATINUM CONTESTANT",
+          "price2": "74",
+          "period2": "per session",
+          "list2": "<ul><li><b>PERSONAL TRAINING </b>2&nbsp;Days per Week</li><li><i>(Total of 16 PERSONAL Sessions in 8 Weeks)</i></li><li><b>+ 2 FREE HEALTH SCREENINGS</b></li><li><b>+ 1 FREE DOCTOR CONSULTATION</b></li><li><b>+ 1 FREE NUTRITION WORKSHOP</b></li><li><b>+ 1 FREE MINDFULNESS WORKSHOP</b></li><li><b>(TOTAL OF RM1,184)</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR 2018</a>",
+          "title3": "PLATINUM CONTESTANT<br>(GROUP + PERSONAL TRAINING)",
           "currency3": "RM",
-          "price3": "1599",
-          "period3": "per registration",
-          "list3": "<ul><li><b>GROUP TRAINING</b> 3 Days per Week</li><li><b>+ PERSONAL TRAINING </b>2 Days per Week</li><li><i>(Total of 24 Classes and 16 Personal Sessions in 8 Weeks)</i></li><li><b>+ HEALTH SCREENINGS</b></li><li><b>+ DOCTOR CONSULTATION</b></li><li><b>+ NUTRITION WORKSHOP</b></li><li><b>+ MINDFULNESS WORKSHOP</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "price3": "39",
+          "period3": "per session",
+          "list3": "<ul><li><b>GROUP TRAINING</b> 3 Days per Week</li><li><b>+ PERSONAL TRAINING </b>2 Days per Week</li><li><i>(Total of 24 GROUP Sessions and 16 PERSONAL Sessions in 8 Weeks)</i></li><li><b>+ 2 FREE HEALTH SCREENINGS</b></li><li><b>+ 1 FREE DOCTOR CONSULTATION</b></li><li><b>+ 1 FREE NUTRITION WORKSHOP</b></li><li><b>+ 1 FREE MINDFULNESS WORKSHOP</b></li><li><b>(TOTAL OF RM1,560)</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/gE7EQW8IZa8F2pjO2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FOR 2018</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
           "price4": "0",
@@ -1425,24 +1397,8 @@
           },
           "title": "100% MONEY-BACK GUARANTEE*",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "* If contestant deemed unfit to participate during Health Screening done on 23 SEP 2017",
+          "text": "* If contestant deemed unfit to participate during 1st Health Screening done",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "16px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content1-16",
-          "text": "<p><b>PAYMENT TERMS</b></p><p>Kindly, please pay full payment by submitting a crossed cheque or making a bank transfer before 16 SEP 2017 to:</p><p><br></p><p>Name: HAPPY URBAN ENTERPRISE</p><p>Bank: Alliance Bank Malaysia Berhad</p><p>Account No.: 6203-80-0100-33-875</p><p><br></p><p><b>CANCELLATION OR NO SHOW POLICY</b></p><p>Before &nbsp;16 SEP 2017: 75% claimable amount of the registration fees</p><p>From 16 SEP 2017 to 22 SEP 2017: 50% claimable amount of the registration fees</p><p>From 23 SEP 2017 onwards: Non-claimable</p><p><br></p><p>Any queries, please contact happyurbanteam@gmail.com +6017-289 4564. Please and thank you.</p>"
         },
         {
           "_tags": [
